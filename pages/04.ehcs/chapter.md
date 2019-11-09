@@ -5,8 +5,6 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 3
-
-# Advanced
+# EHCS
 
 Get into the **nitty gritty** with these advanced topics

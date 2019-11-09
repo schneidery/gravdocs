@@ -1,4 +1,8 @@
-# 6-Punkte-Wochenende für den EHCS
+---
+title: 6-Punkte-Wochenende für den EHCS
+taxonomy:
+    category: docs
+---
 
 Lediglich einen knappen Tag Erholung gönnte der 3. Liga-Spielplan den Hockeyanern der ersten Mannschaft des EHCS. Am regnerischen Sonntag-Abend mussten die Hockey-Cracks aus dem Schwarzenburgerland auf dem Weyerli gegen den EHC Uni-Bern antreten.
 
